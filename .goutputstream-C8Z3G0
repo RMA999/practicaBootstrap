@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>mi pagina</title>
+    <link rel="stylesheet" href="micss.css">
+
+    <script src="micodigo.js"></script>
+
+</head>
+
+<body>
+
+    <h1 class="miclase">Titulo</h1>
+
+    <p class="miclase">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias laborum exercitationem maxime nulla totam
+        necessitatibus omnis sapiente consequatur itaque vel? Quo, minus reprehenderit vel sit libero autem at quasi
+        quaerat voluptatibus deserunt blanditiis ut assumenda dolores quisquam corporis labore repudiandae iure neque
+        inventore sed, eaque consequatur, repellendus repellat! Amet nemo tenetur a voluptatibus minima aspernatur
+        repudiandae! Nemo, explicabo itaque fugit sint voluptas molestiae consequatur quo! Esse reiciendis in unde illum
+        ad, aliquam dolorum veritatis eos quis ducimus culpa, delectus est doloribus blanditiis fuga consequatur dolor
+        cum ex necessitatibus quam iste magnam molestiae id fugit! Esse minima nemo praesentium tempora necessitatibus!
+    </p>
+
+    <button onclick="saludo()">saludar</button>
+
+</body>
+
+</html>
